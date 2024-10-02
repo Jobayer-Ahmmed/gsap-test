@@ -1,0 +1,12 @@
+
+
+#heroDiv{
+    background: url("../../assets/hill.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.text-div {
+    transition: font-size 0.3s ease; 
+  }
+  
